@@ -1,4 +1,7 @@
 # android-notification-textinput
+# Purpose:
+Get Text from Input and show in Notification message
+
 
 # Packages for Notification:
 
